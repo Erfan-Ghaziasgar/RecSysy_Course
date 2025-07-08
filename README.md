@@ -13,12 +13,9 @@ This repository contains my hands-on practice, exercises, and homework solutions
 - Evaluation metrics (RMSE, MAE, Precision@K, Hit Rate, etc.)
 - Building hybrid and production-ready systems
 
-## 📁 Structure
+## 📁 Project Structure
 
-📦recsys-course/
-├── 📂notebooks/ # Practice Jupyter notebooks
-├── 📂homework/ # Homework solutions
-├── 📂data/ # Sample datasets (e.g., MovieLens)
-├── 📂scripts/ # Utility scripts and evaluation functions
-└── README.md
+- RecSys-Materials : Codes and datas of the course
+- Notebooks : colab notebooks I worked on it
+- README
 
