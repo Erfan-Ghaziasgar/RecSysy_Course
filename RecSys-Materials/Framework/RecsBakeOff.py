@@ -40,5 +40,9 @@ evaluator.AddAlgorithm(Random, "Random")
 
 
 # Fight!
-evaluator.Evaluate(True)
+# evaluator.Evaluate(True)
+
+ml = MovieLens()
+ml.loadMovieLensLatestSmall()
+evaluator.SampleTopNRecs(ml=ml)
 
